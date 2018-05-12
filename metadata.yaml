@@ -1,0 +1,25 @@
+_repo: Charles-Edward-PutneyAn-Appreciation_36761
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36761-h/images/cover.png
+creator:
+  author:
+    agent_name: Charles E. Putney Memorial Association
+    gutenberg_agent_id: '38266'
+    url: http://www.gutenberg.org/2009/agents/38266
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Putney, Charles Edward, 1840-1920'
+- !lcc 'LD'
+- !lcsh 'Educators -- United States -- Biography'
+title: 'Charles Edward Putney: An Appreciation'
+url: http://www.gutenberg.org/ebooks/36761
